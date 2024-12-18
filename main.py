@@ -9,4 +9,4 @@ cat.introduce()
 dog.color = "Brown"
 dog.name = "Max"
 
-dog.colors
+dog.color
